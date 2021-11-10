@@ -1,0 +1,32 @@
+body
+{
+    background-color: lawngreen;
+}
+
+p
+{
+    color: snow;
+    letter-spacing: 20px;
+    margin-top: 10px;
+    font-style: italic;
+    font-size: medium;
+}
+
+h6
+{
+    color: snow;
+    letter-spacing: 6px;
+    font-style: italic;
+    font-size: medium;
+}
+
+#m
+{
+    color: snow;
+    letter-spacing: 6px;
+    font-style: italic;
+    background-color: springgreen;
+    width: fit-content;
+    height: 35px;
+    font-size: larger;
+}
